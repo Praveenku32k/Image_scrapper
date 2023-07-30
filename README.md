@@ -107,6 +107,9 @@ python setup.py install
 ```
 pip install ipykernel
 ```
+![Screenshot (4)](https://github.com/Praveenku32k/Image_scrapper/assets/68581081/e59a775c-e563-4e82-af35-873e97d4f1d4)
+
+![Screenshot (2)](https://github.com/Praveenku32k/Image_scrapper/assets/68581081/eeeefaf9-3e5c-4b9e-87eb-d869aa6e2608)
 
 
                     ### Thank you...
